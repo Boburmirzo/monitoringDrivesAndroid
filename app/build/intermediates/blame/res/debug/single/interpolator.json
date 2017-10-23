@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    }
+]

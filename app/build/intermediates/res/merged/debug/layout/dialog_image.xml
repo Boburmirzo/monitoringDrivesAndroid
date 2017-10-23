@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <HorizontalScrollView android:scrollbars="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/dialog_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/camera_off"
+        android:scaleType="fitXY"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"/>
+    <ImageView
+        android:id="@+id/dialog_imageview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/camera_off"
+        android:scaleType="fitXY"
+        android:layout_marginStart="3dp"
+        android:layout_gravity="center_horizontal"/>
+    <ImageView
+        android:id="@+id/dialog_imageview3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/camera_off"
+        android:scaleType="fitXY"
+        android:layout_marginStart="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_gravity="center_horizontal"/>
+    </LinearLayout>
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/txtDescriptionDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Не указано примечание"
+        android:layout_marginStart="25dp"
+        android:textSize="16dp"
+        />
+
+    <TextView
+        android:id="@+id/txtValueDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Не указано количество"
+        android:layout_marginStart="25dp"
+        android:textSize="16dp"
+        />
+
+</LinearLayout>

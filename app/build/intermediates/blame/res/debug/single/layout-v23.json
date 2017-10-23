@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23\\fingerprint_dialog_content.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout-v23\\fingerprint_dialog_content.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23\\fingerprint_dialog_container.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout-v23\\fingerprint_dialog_container.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23\\activity_fingerprint.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout-v23\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23\\fingerprint_dialog_backup.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout-v23\\fingerprint_dialog_backup.xml"
+    }
+]

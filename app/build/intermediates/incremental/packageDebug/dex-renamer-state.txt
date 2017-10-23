@@ -1,0 +1,7 @@
+#Sat Oct 21 10:41:36 MSK 2017
+base.0=E\:\\MonitoringDriver1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\MonitoringDriver1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+base.1=E\:\\MonitoringDriver1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=E\:\\MonitoringDriver1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex

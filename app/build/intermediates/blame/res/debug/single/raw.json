@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\56899ce238a7befff94e456a6c12a76f45aa7ce8\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\notification.mp3",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\raw\\notification.mp3"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\notification.mp3",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\raw\\notification.mp3"
+    }
+]

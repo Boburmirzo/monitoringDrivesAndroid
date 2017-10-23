@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_fingerprint.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout-v21\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

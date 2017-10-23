@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relative_layoutLogin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3c3e42"
+    tools:context=".MainActivity"
+    >
+
+    <EditText
+        android:id="@+id/etUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:layout_marginTop="70dp"
+        android:inputType="textPersonName"
+        android:hint="Логин"
+        android:textColor="@color/WhiteText"
+        android:textSize="19sp"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/etPass"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_alignStart="@+id/etUserName"
+        android:layout_below="@+id/etUserName"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:inputType="numberPassword"
+        android:hint="Пароль"
+        android:textColor="@color/WhiteText"
+        android:textSize="19sp" />
+
+    <Spinner
+        android:id="@+id/static_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_alignStart="@+id/etPass"
+        android:layout_below="@+id/etPass"
+        android:layout_marginTop="10dp"
+        android:textSize="19sp"
+        android:textColor="@color/WhiteText"/>
+    <!--<EditText-->
+        <!--android:id="@+id/etIPaddress"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="45dp"-->
+        <!--android:layout_alignStart="@+id/etPass"-->
+        <!--android:layout_below="@+id/etPass"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:ems="10"-->
+        <!--android:hint="IP Адрес как 0.0.0.0"-->
+        <!--android:textSize="19sp"-->
+        <!--android:textColor="@color/WhiteText" />-->
+
+    <Button
+        android:id="@+id/btnSingIn"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/etPass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp"
+        android:background="@color/Orange"
+        android:onClick="OnClickEnter"
+        android:text="Вход"
+        android:textColor="#ffffff"
+        android:textSize="19sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="140dp"
+        app:srcCompat="@drawable/icon"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/etUserName" />
+
+</RelativeLayout>

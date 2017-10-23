@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1067757419948-k195soslt1sclkutqmqfsiprf07q4as8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://likada-165919.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1067757419948</string>
+    <string name="google_api_key" translatable="false">AIzaSyA1a40pPu3dgndZfKipc3jY8vfoiCPTGIk</string>
+    <string name="google_app_id" translatable="false">1:1067757419948:android:3317ae4c5fd262c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1a40pPu3dgndZfKipc3jY8vfoiCPTGIk</string>
+    <string name="google_storage_bucket" translatable="false">likada-165919.appspot.com</string>
+</resources>

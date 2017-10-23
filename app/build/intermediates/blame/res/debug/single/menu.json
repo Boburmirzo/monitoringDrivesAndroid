@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_options.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\menu\\menu_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_additional_states.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\menu\\menu_additional_states.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_options.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\menu\\menu_options.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_additional_states.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\menu\\menu_additional_states.xml"
+    }
+]

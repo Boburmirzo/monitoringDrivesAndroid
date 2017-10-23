@@ -1,0 +1,658 @@
+[
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\be7f679af033cd05fc61371329960d8deb938605\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabtest.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\tabtest.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loginv2.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_loginv2.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_image.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\dialog_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loginv2.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_loginv2.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabtest.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\tabtest.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tablerow.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\tablerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_image.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\dialog_image.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\google_map.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\google_map.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tablerow.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\tablerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\be7f679af033cd05fc61371329960d8deb938605\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_row.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\image_row.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_row.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\image_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fingerprint.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\google_map.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\google_map.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fingerprint.xml",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\layout\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\9a6801e689b2b53dbc65fcfc269b55093b384622\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\ea81fc428b23be4e75a47d84dba455c2dd87a886\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\bumur\\.android\\build-cache\\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\\output\\res\\layout\\mr_controller_volume_item.xml"
+    }
+]

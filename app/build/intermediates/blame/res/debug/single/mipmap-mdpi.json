@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_action_dehaze.png",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-mdpi\\ic_action_dehaze.png"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_action_dehaze.png",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-mdpi\\ic_action_dehaze.png"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_stat__.png",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-mdpi\\ic_stat__.png"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_stat__.png",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-mdpi\\ic_stat__.png"
+    }
+]

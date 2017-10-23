@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_stat__.png",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-hdpi\\ic_stat__.png"
+    },
+    {
+        "merged": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\bumur\\AndroidStudioProjects\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_stat__.png",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-hdpi\\ic_stat__.png"
+    },
+    {
+        "merged": "E:\\MonitoringDriver1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\MonitoringDriver1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

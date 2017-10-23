@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067757419948",
+    "firebase_url": "https://likada-165919.firebaseio.com",
+    "project_id": "likada-165919",
+    "storage_bucket": "likada-165919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067757419948:android:3317ae4c5fd262c4",
+        "android_client_info": {
+          "package_name": "ru.likada.monitoringdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067757419948-k195soslt1sclkutqmqfsiprf07q4as8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1a40pPu3dgndZfKipc3jY8vfoiCPTGIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

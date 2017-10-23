@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item-->
+        <!--android:id="@+id/action_settings"-->
+        <!--android:title="Настройка"-->
+        <!--android:showAsAction="never"/>-->
+    <group android:id="@+id/group">
+        <item android:id="@+id/settings"
+            android:onClick="onGroupItemClick"
+            android:title="Настройка"
+            />
+        <item android:id="@+id/group_item2"
+            android:onClick="onGroupItemClick"
+            android:title="Выйти"
+            />
+    </group>
+
+</menu>
