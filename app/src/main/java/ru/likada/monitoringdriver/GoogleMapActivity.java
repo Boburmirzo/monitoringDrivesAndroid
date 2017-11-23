@@ -19,6 +19,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 public class GoogleMapActivity extends FragmentActivity implements OnMapReadyCallback {
     private GoogleMap mMap;
     private String coordinates;
+    private String addressTitle;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,6 +30,7 @@ public class GoogleMapActivity extends FragmentActivity implements OnMapReadyCal
         if(extras !=null)
         {
             coordinates = extras.getString("coordinates");
+            addressTitle = extras.getString("addressTitle");
         }
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
@@ -44,11 +46,19 @@ public class GoogleMapActivity extends FragmentActivity implements OnMapReadyCal
             final double langtitude = Double.parseDouble(splitStr[0]);
             final double longtitude = Double.parseDouble(splitStr[1]);
             // Add a marker in Sydney, Australia, and move the camera.
-            LatLng sydney = new LatLng(langtitude, longtitude);
-            mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
-            mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+            LatLng point = new LatLng(langtitude, longtitude);
+            mMap.addMarker(new MarkerOptions().position(point).title(addressTitle));
+            mMap.getUiSettings().setCompassEnabled(true);
+            mMap.getUiSettings().setMyLocationButtonEnabled(true);
+            mMap.getUiSettings().setMapToolbarEnabled(true);
+            mMap.getUiSettings().setZoomGesturesEnabled(true);
+            mMap.getUiSettings().setScrollGesturesEnabled(true);
+            mMap.getUiSettings().setTiltGesturesEnabled(true);
+            mMap.getUiSettings().setRotateGesturesEnabled(true);
+            mMap.moveCamera(CameraUpdateFactory.newLatLng(point));
             mMap.getUiSettings().setZoomControlsEnabled(true);
-            mMap.animateCamera(CameraUpdateFactory.zoomTo(150), 2000, null);
+            mMap.animateCamera(CameraUpdateFactory.zoomTo(10), 2000, null);
+            mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
         }
     }
 

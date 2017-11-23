@@ -58,6 +58,10 @@
         <item>192.168.1.52</item>
         <item>192.168.1.48</item>
         <item>192.168.1.33</item>
+        <item>10.240.20.9</item>
+        <item>10.240.21.76</item>
+        <item>10.240.23.83</item>
+        <item>10.240.19.28</item>
         <item>erp.likada.pro</item>
     </string-array>
 

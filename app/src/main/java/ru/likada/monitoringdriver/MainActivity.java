@@ -705,13 +705,14 @@ public class MainActivity extends AppCompatActivity implements AsyncResponse, As
                 txtValue.setText(mPrefs.getString("driveStateValue"+drive.getId(),""));
             }
             if(drive.getCurrentState()!=null) {
-                if (drive.getCurrentState().getTypeId().equals(8)) {
-                    txtValue.setClickable(true);
-                    txtValue.setEnabled(true);
-                } else {
-                    txtValue.setClickable(false);
-                    txtValue.setEnabled(false);
-                }
+                txtValue.setClickable(true);
+//                if (drive.getCurrentState().getTypeId().equals(8)) {
+//                    txtValue.setClickable(true);
+//                    txtValue.setEnabled(true);
+//                } else {
+//                    txtValue.setClickable(false);
+//                    txtValue.setEnabled(false);
+//                }
             }
             //Initializing image button1
             ImageView tableRowImage = (ImageView) v.findViewById(R.id.tableRow_image);
@@ -944,12 +945,14 @@ public class MainActivity extends AppCompatActivity implements AsyncResponse, As
         tableLayout.addView(tr);
         if(sourceWrapper.getCoordinates()!=null) {
             final String mapCoordinates = sourceWrapper.getCoordinates();
+            final String addressTitle = sourceWrapper.getObject();
             ImageButton imageButtonMap = (ImageButton) tr.findViewById(R.id.btn_map);
             imageButtonMap.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
                     Intent i = new Intent(MainActivity.this, GoogleMapActivity.class);
                     i.putExtra("coordinates",mapCoordinates);
+                    i.putExtra("addressTitle",addressTitle);
                     startActivity(i);
                 }
             });
