@@ -316,6 +316,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:id="@+id/linearLayout_value_upper"
                 android:layout_below="@+id/tabledescription"
                 android:layout_centerHorizontal="true"
                 android:layout_marginLeft="10dp"

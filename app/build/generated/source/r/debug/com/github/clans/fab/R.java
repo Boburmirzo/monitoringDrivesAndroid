@@ -88,14 +88,14 @@ public final class R {
         public static final int end = 0x7f09007a;
         public static final int fab_label = 0x7f090085;
         public static final int left = 0x7f0900ad;
-        public static final int marquee = 0x7f0900be;
-        public static final int middle = 0x7f0900d1;
-        public static final int mini = 0x7f0900d2;
-        public static final int none = 0x7f0900f6;
-        public static final int normal = 0x7f0900f7;
-        public static final int right = 0x7f090117;
-        public static final int start = 0x7f090143;
-        public static final int up = 0x7f090182;
+        public static final int marquee = 0x7f0900bf;
+        public static final int middle = 0x7f0900d2;
+        public static final int mini = 0x7f0900d3;
+        public static final int none = 0x7f0900f7;
+        public static final int normal = 0x7f0900f8;
+        public static final int right = 0x7f090118;
+        public static final int start = 0x7f090144;
+        public static final int up = 0x7f090183;
     }
     public static final class styleable {
         public static final int[] FloatingActionButton = { 0x7f040034, 0x7f040035, 0x7f04003c, 0x7f0400b9, 0x7f0400c7, 0x7f0400c8, 0x7f0400c9, 0x7f0400ca, 0x7f0400cb, 0x7f0400cc, 0x7f0400cd, 0x7f0400ce, 0x7f0400cf, 0x7f0400d0, 0x7f0400d1, 0x7f0400d2, 0x7f0400d3, 0x7f0400d4, 0x7f0400d5, 0x7f0400d6, 0x7f0400d7, 0x7f0400d8, 0x7f0400d9, 0x7f0400da, 0x7f0400db, 0x7f04019a, 0x7f0401a4, 0x7f040215 };

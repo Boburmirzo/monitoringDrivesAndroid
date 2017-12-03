@@ -44,6 +44,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.RadioGroup;
 import android.widget.TabHost;
 import android.widget.TableLayout;
@@ -681,8 +682,11 @@ public class MainActivity extends AppCompatActivity implements AsyncResponse, As
             if(mPrefs.contains("driveStateDescription"+drive.getId())) {
                 txtvdescription.setText(mPrefs.getString("driveStateDescription"+drive.getId(),""));
             }
+            final Button btnNextState = (Button) v.findViewById(R.id.btn_nextstate);
 
             TextView txtvValueLabel = (TextView) v.findViewById(R.id.txtValuelabel);
+            TableLayout tableLayoutValue = (TableLayout) v.findViewById(R.id.tableValue);
+            LinearLayout linearLayoutValue = (LinearLayout) v.findViewById(R.id.linearLayout_value_upper);
             txtvValueLabel.setText("Количество");
             EditText txtValue = (EditText) v.findViewById(R.id.txtValue);
             txtValue.addTextChangedListener(new TextWatcher() {
@@ -698,21 +702,26 @@ public class MainActivity extends AppCompatActivity implements AsyncResponse, As
 
                 @Override
                 public void afterTextChanged(Editable s) {
-
+//                    if(!s.toString().isEmpty()) {
+//                        btnNextState.setClickable(true);
+//                    } else {
+//                        Toast.makeText(this, "plz enter your name ", Toast.LENGTH_SHORT).show();
+//                    }
                 }
             });
             if(mPrefs.contains("driveStateValue"+drive.getId())) {
                 txtValue.setText(mPrefs.getString("driveStateValue"+drive.getId(),""));
             }
             if(drive.getCurrentState()!=null) {
-                txtValue.setClickable(true);
-//                if (drive.getCurrentState().getTypeId().equals(8)) {
-//                    txtValue.setClickable(true);
-//                    txtValue.setEnabled(true);
-//                } else {
-//                    txtValue.setClickable(false);
-//                    txtValue.setEnabled(false);
-//                }
+                if (drive.getCurrentState().getTypeId().equals(4)) {
+                    tableLayoutValue.setVisibility(View.VISIBLE);
+                    tableLayoutValue.setEnabled(true);
+                    linearLayoutValue.setVisibility(View.VISIBLE);
+                } else {
+                    tableLayoutValue.setVisibility(View.GONE);
+                    tableLayoutValue.setEnabled(false);
+                    linearLayoutValue.setVisibility(View.GONE);
+                }
             }
             //Initializing image button1
             ImageView tableRowImage = (ImageView) v.findViewById(R.id.tableRow_image);
@@ -825,7 +834,7 @@ public class MainActivity extends AppCompatActivity implements AsyncResponse, As
                 }
             }
 
-            Button btnNextState = (Button) v.findViewById(R.id.btn_nextstate);
+
             ImageView btnNextStateAdditional = (ImageView) v.findViewById(R.id.btncontinue);
 
             if(drive.getNextState()!=null && !drive.getCurrentState().isCheckContinue()) {
@@ -1022,6 +1031,16 @@ public class MainActivity extends AppCompatActivity implements AsyncResponse, As
     }
 
     public void onClickBtnNextState(View view) throws ExecutionException, InterruptedException {
+        if(drives.get(driveId).getCurrentState().getTypeId().equals(4)) {
+            if(drives.get(driveId).getValue()!=null && !drives.get(driveId).getValue().isEmpty())
+                moveToTheNextLevel();
+            else
+                Toast.makeText(getBaseContext(), "Количество обязательное поле ", Toast.LENGTH_SHORT).show();
+        } else
+            moveToTheNextLevel();
+    }
+
+    private void moveToTheNextLevel(){
         LayoutInflater factory = LayoutInflater.from(MainActivity.this);
         View viewDialogImage = factory.inflate(R.layout.dialog_image, null);
         AlertDialog.Builder adb = new AlertDialog.Builder(this);
@@ -1052,16 +1071,15 @@ public class MainActivity extends AppCompatActivity implements AsyncResponse, As
         });
 
         textDescroptionDialog = (TextView) viewDialogImage.findViewById(R.id.txtDescriptionDialog);
-        EditText txtvdescription=(EditText) tabHost.getCurrentView().findViewById(R.id.txtvdescription);
+        EditText txtvdescription = (EditText) tabHost.getCurrentView().findViewById(R.id.txtvdescription);
         textDescroptionDialog.setText(txtvdescription.getText().toString());
         textValueDialog = (TextView) viewDialogImage.findViewById(R.id.txtValueDialog);
-        EditText txtValue=(EditText) tabHost.getCurrentView().findViewById(R.id.txtValue);
+        EditText txtValue = (EditText) tabHost.getCurrentView().findViewById(R.id.txtValue);
         textValueDialog.setText(txtValue.getText().toString());
         initializeDialogImages(viewDialogImage);
         adb.setView(viewDialogImage);
         adb.create();
         adb.show();
-//        }
     }
 
     private void initializeDialogImages(View viewDialogImage){
@@ -1531,7 +1549,7 @@ public class MainActivity extends AppCompatActivity implements AsyncResponse, As
                             Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DCIM);
                     List<File> files = integerListMapOfImages.get(tabHost.getCurrentTab());
 
-                    files.add(idOfCurrentImage, new File(dir, "temp" + idOfCurrentImage + "_" + drives.get(driveId).getId() + ".jpg"));
+                    files.add(idOfCurrentImage, new File(dir, "temp"+drives.get(driveId).getCurrentState().getId().toString() + idOfCurrentImage + "_" + drives.get(driveId).getId() + ".jpg"));
 
                     intent.putExtra(MediaStore.EXTRA_OUTPUT, Uri.fromFile(files.get(idOfCurrentImage)));
 

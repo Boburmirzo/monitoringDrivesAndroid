@@ -1,531 +1,803 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:2:1-88:12
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\crouton-1.8.5.aar\13a371183d00af905af64e9adf786575\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\f56865b78dfd39794f90d5261f0543ae\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\6f19032b786ecc2200f82b9543898a6c\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\e5e79e88bcd353fee1e9b8237c3004d8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5623adffa4cc711266765056e8679f1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb620ddfb94e5f623e40e9563d4df385\AndroidManifest.xml:2:1-11:12
+MERGED from [io.realm:android-adapters:2.0.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\android-adapters-2.0.0.aar\a41f4162283bc094cefe63ea1dad473d\AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.clans:fab:1.6.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\fab-1.6.2.aar\90624d301c3318d7780ca14194bffd3c\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\e1e086aa08b19dc80e9bb6f5973a83d1\AndroidManifest.xml:16:1-30:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\7f8e74bed1e01674fbadcf95ef450325\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\f283f8322b2734f6cf637484630808eb\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\f2209e1aee9d055ec03c66586ccd9994\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\96485364ded73bba8749312cf488e89e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9095979789d1ef9f77d753ed3ced06f0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\cbc4555ee371970dabc91540db8316a4\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\8af33e33b9cbb2654acb036c3d7e3e9d\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.6.aar\6a2d57237c65dda1277acc8d36fcd15b\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\7e1f7bc2e9de907437e9c20a468e91db\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\71a5d06b0905476900ee56c5f5b90181\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\e330099a8c6594c59bcb18c1d32e33a5\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\43b3d306cd2f4d97feaaf04aaa5e72f2\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\b4cf275acb0ac5f7ed22c4be5f342cda\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.6.aar\dce9a6c4cfbfb568a811fea7065d14b1\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\a47c86d1d8c57fe43999162b287d32d7\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.6.aar\8ae5e377b909d253599f28c444028535\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\f87cd8676b54dc403abb310811c329aa\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\c9e3d989195f4cfe115c14653e15dd09\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\b0fbf53964c2731a10382531b413fa5e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\55acd656486b9c17c2f5a6e3decaf86f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\2209ba437762d048f31f5775e7c57468\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.6.aar\e5a763b043f780efd77ef864203d86c3\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8752f0b0ca41b493d193b93859aadc9d\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.6.aar\c32268b4f4f6b485f816b6f5c8ba73e6\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\539e7a7a901f284af097f3e800950858\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\a867b0b52dc4bde89ab9e1eee80b8737\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\c2a44269b976d86f3ffb09f063cd6608\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\e08fd541c0c4587e6a2b427f873e6b28\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\3988528ca82558eae787bbba108620d0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\9e4d66e9e3a6b42aeeb96be663c673de\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3078780c8f5325e5eafc8ccba1cb7194\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\d3ba4b0d3fdfc526aadc62da169b28e4\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\bba02eeab9d82be45b43b8b48b5cb0bb\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\1d1952222d06ce60c5fe5f549d901206\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\b461a4d803df5ea4b827b18ea3067e0a\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\d849f0c3506eabb5622a11c941fd8017\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6979071e48423660b74937b21d139ca8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\991582104e63f532abce02564b17f739\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7edb8b461c837a27d2d01ab7b95b1600\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\291e42b4ea92f853f334ebb0d5eb54b0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1e5acc3d79623b63ef975a95179716d9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e0cc2f709b358c8b8f2988eceacb65f4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\e5f62183a8b644c75146dad2a8b18d75\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1651a6200fb0a9a9961356be544a3c91\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cce193183bd1cf869e52faa875a38c8e\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
 	package
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:4:5-41
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:3:5-51
-	xmlns:android
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:6:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.android\build-cache\3c6f35fc35662eac165a6561f0901e0fbbc06fe7\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.android\build-cache\f2d0e6fd6101ab713b6420f02c53adc75dac9516\output\AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.android\build-cache\745314d4ae28d7266b6d5dfd0486cd9b5fa1f205\output\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.android\build-cache\17066a9c0d765c043fc8fe5fad7276c2e92d7b5e\output\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\3ef7b64d24340e30cdd6638c547568abc4af448b\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.android\build-cache\e16478e27406bd223d472d6efd81875a1ef6b942\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\760110786a69a6de02afc7ec4017cc5f053f7988\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:20:5-66
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\8af33e33b9cbb2654acb036c3d7e3e9d\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\8af33e33b9cbb2654acb036c3d7e3e9d\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:8:5-78
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.android\build-cache\3c6f35fc35662eac165a6561f0901e0fbbc06fe7\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.android\build-cache\5af3954e4307c683f9cdf4a3a5fff9d378365a5a\output\AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\3ef7b64d24340e30cdd6638c547568abc4af448b\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.android\build-cache\e16478e27406bd223d472d6efd81875a1ef6b942\output\AndroidManifest.xml:19:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\760110786a69a6de02afc7ec4017cc5f053f7988\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:19:5-78
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\c2a44269b976d86f3ffb09f063cd6608\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\c2a44269b976d86f3ffb09f063cd6608\AndroidManifest.xml:4:5-78
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:8:22-76
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:9:5-77
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:9:5-77
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:9:22-75
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:9:22-75
 uses-feature#android.hardware.camera
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:10:5-60
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:10:5-60
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:10:19-57
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:10:19-57
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:13:5-81
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:14:5-80
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:14:22-77
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:14:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:15:5-81
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:15:22-78
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:16:5-79
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:16:22-76
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#com.google.android.providers.gsf.permission.    READ_GSERVICES
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:17:5-18:23
+	android:name
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:17:5-18:23
 application
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:17:5-87:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bumur\.android\build-cache\a2e4ff1d9cfdbb9233c1457ddfcd331c301fbabf\output\AndroidManifest.xml:9:5-20
-MERGED from [com.github.clans:fab:1.6.2] C:\Users\bumur\.android\build-cache\c62162af42a0ea690bc1a244ae8927b9d0f1a262\output\AndroidManifest.xml:12:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\bumur\.android\build-cache\ea81fc428b23be4e75a47d84dba455c2dd87a886\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.android\build-cache\7322800f36f2b5128f2f1560b05c764d8ff86611\output\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\bumur\.android\build-cache\de0db471753bea069db500abff7d40e408f11569\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.android\build-cache\3c6f35fc35662eac165a6561f0901e0fbbc06fe7\output\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.android\build-cache\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\output\AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\bumur\.android\build-cache\0254f321bb9a9543bb738999a22d071011be5ed3\output\AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\bumur\.android\build-cache\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.android\build-cache\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.android\build-cache\7c18f452c6bde9bb866c54dc5569734c150a5557\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.android\build-cache\b0009e88691c8b7572617f33e221f31cc01efca6\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\bumur\.android\build-cache\126f9c44f0d27a51ac9cde074314de6fd0cb452a\output\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\bumur\.android\build-cache\95ddab5881a4d60c55c03550b023398a10bc34a3\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\bumur\.android\build-cache\e0e12957d70da13b787da5b5f0d00aab2e462128\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\bumur\.android\build-cache\52628a6742b0ab7e70ab9b967627b6f7173bfd54\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.android\build-cache\f2d0e6fd6101ab713b6420f02c53adc75dac9516\output\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\bumur\.android\build-cache\79774179c755b6049e84f2329bf61797197a3d55\output\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.android\build-cache\8ffbba11042fde59bb2239e7ed5fa3349bc7498b\output\AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\bumur\.android\build-cache\3e06efbe57f840f5fafd482f06f3c5cc63868776\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\bumur\.android\build-cache\224221756120e6f8f4d452aab0c69dfc0b2e926b\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\bumur\.android\build-cache\cc79bf420f5489c142cccf323ba4ad7d52a7e8b2\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\bumur\.android\build-cache\219aeaa0fbd600be4f00dfef370532a1e76c38a9\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.android\build-cache\745314d4ae28d7266b6d5dfd0486cd9b5fa1f205\output\AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\bumur\.android\build-cache\9cbae941b7d9f06577fa4d538158132333517133\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.android\build-cache\17066a9c0d765c043fc8fe5fad7276c2e92d7b5e\output\AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\bumur\.android\build-cache\3844e2666053230b1c79efa12f7c18625e1505bd\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.android\build-cache\5af3954e4307c683f9cdf4a3a5fff9d378365a5a\output\AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\bumur\.android\build-cache\f5cc04a909262074ee26ab0e6d0094e8654dec46\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\bumur\.android\build-cache\9a6801e689b2b53dbc65fcfc269b55093b384622\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\bumur\.android\build-cache\0c234e0e8542ea2febaef7cf5081645ed21c3651\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\bumur\.android\build-cache\4488aa5ec9af0808dca9071e9af22de8cebf3d7c\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\bumur\.android\build-cache\557e5e2de53ed06dfb52021821d2405c184f8d63\output\AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\3ef7b64d24340e30cdd6638c547568abc4af448b\output\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\bumur\.android\build-cache\2542ac94d66160d955b739ed04b84dc09981094e\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\bumur\.android\build-cache\14ce21809ac7f9fe040bd34ba1fb4d0912df05e7\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.android\build-cache\e16478e27406bd223d472d6efd81875a1ef6b942\output\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\bumur\.android\build-cache\9590aaff31d20a8dbd9ca5623fb30cf72cfc5823\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.android\build-cache\b04fc2d65275bb85e44f3a40206b6e5bdfb4a4bb\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.android\build-cache\30f5a9f64d6221c9882576a40a059e5a40e5b41d\output\AndroidManifest.xml:26:5-20
-MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\bumur\.android\build-cache\1319d22d6de9b2152adab7f2eea769fc3f2314ad\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\760110786a69a6de02afc7ec4017cc5f053f7988\output\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.android\build-cache\3037094d4582b3dac5072bb041b0424a61315a2f\output\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\bumur\.android\build-cache\e3f7e7dd8a66420ed666390c2f939613ba485f9f\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.android\build-cache\3038d8bd095fa5fbc74685c053311dd84d802ad9\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.android\build-cache\c8eed867c11e5ade9c1eb91eb3bd60c386fa7fab\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.android\build-cache\297f8d786dec943f5b26c7e5fd946554f4819e9f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.android\build-cache\7aace44cf0b65c829b6b4347e40ef92eb245f0b9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.android\build-cache\e8b3f762bdca7bd5e8b329b5571da7e89663d68d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.android\build-cache\62dc7a2b9bef712bbd069c4ea84e8d2459d13719\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.android\build-cache\c0dab23a11895d73935f217b6e3e0a0e305195d0\output\AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:22:9-41
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:20:5-91:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\f56865b78dfd39794f90d5261f0543ae\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\f56865b78dfd39794f90d5261f0543ae\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\6f19032b786ecc2200f82b9543898a6c\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\6f19032b786ecc2200f82b9543898a6c\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\e5e79e88bcd353fee1e9b8237c3004d8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\e5e79e88bcd353fee1e9b8237c3004d8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5623adffa4cc711266765056e8679f1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5623adffa4cc711266765056e8679f1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb620ddfb94e5f623e40e9563d4df385\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb620ddfb94e5f623e40e9563d4df385\AndroidManifest.xml:9:5-20
+MERGED from [com.github.clans:fab:1.6.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\fab-1.6.2.aar\90624d301c3318d7780ca14194bffd3c\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\fab-1.6.2.aar\90624d301c3318d7780ca14194bffd3c\AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\e1e086aa08b19dc80e9bb6f5973a83d1\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\e1e086aa08b19dc80e9bb6f5973a83d1\AndroidManifest.xml:19:5-29:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\7f8e74bed1e01674fbadcf95ef450325\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\7f8e74bed1e01674fbadcf95ef450325\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\f2209e1aee9d055ec03c66586ccd9994\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\f2209e1aee9d055ec03c66586ccd9994\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9095979789d1ef9f77d753ed3ced06f0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9095979789d1ef9f77d753ed3ced06f0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\cbc4555ee371970dabc91540db8316a4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\cbc4555ee371970dabc91540db8316a4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\8af33e33b9cbb2654acb036c3d7e3e9d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\8af33e33b9cbb2654acb036c3d7e3e9d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\7e1f7bc2e9de907437e9c20a468e91db\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\7e1f7bc2e9de907437e9c20a468e91db\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\b4cf275acb0ac5f7ed22c4be5f342cda\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\b4cf275acb0ac5f7ed22c4be5f342cda\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\a47c86d1d8c57fe43999162b287d32d7\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\a47c86d1d8c57fe43999162b287d32d7\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\f87cd8676b54dc403abb310811c329aa\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\f87cd8676b54dc403abb310811c329aa\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\c9e3d989195f4cfe115c14653e15dd09\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\c9e3d989195f4cfe115c14653e15dd09\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\b0fbf53964c2731a10382531b413fa5e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\b0fbf53964c2731a10382531b413fa5e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\55acd656486b9c17c2f5a6e3decaf86f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\55acd656486b9c17c2f5a6e3decaf86f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\2209ba437762d048f31f5775e7c57468\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\2209ba437762d048f31f5775e7c57468\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8752f0b0ca41b493d193b93859aadc9d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8752f0b0ca41b493d193b93859aadc9d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\539e7a7a901f284af097f3e800950858\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\539e7a7a901f284af097f3e800950858\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\a867b0b52dc4bde89ab9e1eee80b8737\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\a867b0b52dc4bde89ab9e1eee80b8737\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\c2a44269b976d86f3ffb09f063cd6608\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\c2a44269b976d86f3ffb09f063cd6608\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\e08fd541c0c4587e6a2b427f873e6b28\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\e08fd541c0c4587e6a2b427f873e6b28\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\3988528ca82558eae787bbba108620d0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\3988528ca82558eae787bbba108620d0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\9e4d66e9e3a6b42aeeb96be663c673de\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\9e4d66e9e3a6b42aeeb96be663c673de\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3078780c8f5325e5eafc8ccba1cb7194\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3078780c8f5325e5eafc8ccba1cb7194\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\d3ba4b0d3fdfc526aadc62da169b28e4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\d3ba4b0d3fdfc526aadc62da169b28e4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\1d1952222d06ce60c5fe5f549d901206\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\1d1952222d06ce60c5fe5f549d901206\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\b461a4d803df5ea4b827b18ea3067e0a\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\b461a4d803df5ea4b827b18ea3067e0a\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\d849f0c3506eabb5622a11c941fd8017\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\d849f0c3506eabb5622a11c941fd8017\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6979071e48423660b74937b21d139ca8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6979071e48423660b74937b21d139ca8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\991582104e63f532abce02564b17f739\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\991582104e63f532abce02564b17f739\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7edb8b461c837a27d2d01ab7b95b1600\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7edb8b461c837a27d2d01ab7b95b1600\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\291e42b4ea92f853f334ebb0d5eb54b0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\291e42b4ea92f853f334ebb0d5eb54b0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1e5acc3d79623b63ef975a95179716d9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1e5acc3d79623b63ef975a95179716d9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e0cc2f709b358c8b8f2988eceacb65f4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e0cc2f709b358c8b8f2988eceacb65f4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\e5f62183a8b644c75146dad2a8b18d75\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\e5f62183a8b644c75146dad2a8b18d75\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1651a6200fb0a9a9961356be544a3c91\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1651a6200fb0a9a9961356be544a3c91\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cce193183bd1cf869e52faa875a38c8e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cce193183bd1cf869e52faa875a38c8e\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:25:9-41
 	android:hardwareAccelerated
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:24:9-43
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:27:9-43
 	tools:ignore
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:23:9-48
-	android:allowBackup
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:26:9-48
 	android:icon
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:21:9-35
 	android:theme
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:21:9-40
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:24:9-40
 meta-data#com.google.android.geo.API_KEY
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:26:9-28:71
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:29:9-31:71
 	android:value
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:28:13-68
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:31:13-68
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:27:13-58
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:30:13-58
 activity#ru.likada.monitoringdriver.LoginActivity
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:43:9-51:20
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:47:9-55:20
 	android:configChanges
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:45:13-59
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:49:13-59
 	android:theme
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:44:13-56
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:48:13-56
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:43:19-48
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:47:19-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:46:13-50:29
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:50:13-54:29
 action#android.intent.action.MAIN
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:47:17-69
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:51:17-69
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:47:25-66
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:51:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:49:17-77
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:53:17-77
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:49:27-74
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:53:27-74
 activity#ru.likada.monitoringdriver.MainActivity
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:52:9-59:20
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:56:9-63:20
 	android:label
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:54:13-47
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:58:13-47
 	android:hardwareAccelerated
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:58:13-47
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:62:13-47
 	android:configChanges
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:57:13-59
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:61:13-59
 	android:theme
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:56:13-56
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:60:13-56
 	android:logo
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:55:13-42
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:59:13-42
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:53:13-41
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:57:13-41
 activity#ru.likada.monitoringdriver.GoogleMapActivity
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:60:9-70:20
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:64:9-74:20
 	android:label
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:62:13-47
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:66:13-47
 	android:hardwareAccelerated
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:66:13-47
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:70:13-47
 	android:configChanges
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:65:13-59
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:69:13-59
 	android:theme
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:64:13-55
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:68:13-55
 	android:logo
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:63:13-42
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:67:13-42
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:61:13-46
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:65:13-46
 intent-filter#android.intent.category.APP_MAPS
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:67:13-69:29
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:71:13-73:29
 category#android.intent.category.APP_MAPS
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:68:17-77
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:72:17-77
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:68:27-74
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:72:27-74
 service#ru.likada.monitoringdriver.MessageNotification.MyFirebaseMessagingService
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:73:9-78:19
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:77:9-82:19
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:74:13-75
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:78:13-75
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:75:13-77:29
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:79:13-81:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:76:17-77
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:80:17-77
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:76:25-75
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:80:25-75
 service#ru.likada.monitoringdriver.MessageNotification.MyFirebaseInstanceIDService
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:80:9-85:19
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:84:9-89:19
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:81:13-76
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:85:13-76
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:82:13-84:29
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:86:13-88:29
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:83:17-79
+ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:87:17-79
 	android:name
-		ADDED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml:83:25-77
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml:87:25-77
 uses-sdk
-INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\bumur\.android\build-cache\317d785c0521db661562b0ce35225513271cbce2\output\AndroidManifest.xml:18:5-42
-MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] C:\Users\bumur\.android\build-cache\4b03b688ad4915e7c5a3f45a2fa0041befcc0e36\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bumur\.android\build-cache\a2e4ff1d9cfdbb9233c1457ddfcd331c301fbabf\output\AndroidManifest.xml:5:5-7:41
-MERGED from [io.realm:android-adapters:2.0.0] C:\Users\bumur\.android\build-cache\1d97413ec5b22fe0db8dc625314750404d17ec21\output\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.clans:fab:1.6.2] C:\Users\bumur\.android\build-cache\c62162af42a0ea690bc1a244ae8927b9d0f1a262\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\bumur\.android\build-cache\ea81fc428b23be4e75a47d84dba455c2dd87a886\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.android\build-cache\7322800f36f2b5128f2f1560b05c764d8ff86611\output\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\bumur\.android\build-cache\de0db471753bea069db500abff7d40e408f11569\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\bumur\.android\build-cache\c33dacf043085f589ae65eb7c50e6d02d6cd7d33\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.android\build-cache\3c6f35fc35662eac165a6561f0901e0fbbc06fe7\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\bumur\.android\build-cache\db014c4d68c5476efc33bdcfd7076532f0999640\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.android\build-cache\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\bumur\.android\build-cache\0254f321bb9a9543bb738999a22d071011be5ed3\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\bumur\.android\build-cache\8d0f32c8032a1d13969fc844be0cadbd600bb8e6\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.android\build-cache\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.android\build-cache\7c18f452c6bde9bb866c54dc5569734c150a5557\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.android\build-cache\b0009e88691c8b7572617f33e221f31cc01efca6\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\bumur\.android\build-cache\126f9c44f0d27a51ac9cde074314de6fd0cb452a\output\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\bumur\.android\build-cache\95ddab5881a4d60c55c03550b023398a10bc34a3\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\bumur\.android\build-cache\e0e12957d70da13b787da5b5f0d00aab2e462128\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\bumur\.android\build-cache\52628a6742b0ab7e70ab9b967627b6f7173bfd54\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.android\build-cache\f2d0e6fd6101ab713b6420f02c53adc75dac9516\output\AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\bumur\.android\build-cache\79774179c755b6049e84f2329bf61797197a3d55\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\bumur\.android\build-cache\9a5597e5e80add7f213d9dac01badf4d50606507\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\bumur\.android\build-cache\3c721663432145421808b1a3ed9830303ddb2edf\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.android\build-cache\8ffbba11042fde59bb2239e7ed5fa3349bc7498b\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\bumur\.android\build-cache\660b91979b11f56dd4c0a6302c3088f06f33eb50\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\bumur\.android\build-cache\eea718ee37664b392959d47149953e6923779225\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\bumur\.android\build-cache\3e06efbe57f840f5fafd482f06f3c5cc63868776\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\bumur\.android\build-cache\224221756120e6f8f4d452aab0c69dfc0b2e926b\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\bumur\.android\build-cache\cc79bf420f5489c142cccf323ba4ad7d52a7e8b2\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\bumur\.android\build-cache\219aeaa0fbd600be4f00dfef370532a1e76c38a9\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.android\build-cache\745314d4ae28d7266b6d5dfd0486cd9b5fa1f205\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\bumur\.android\build-cache\9cbae941b7d9f06577fa4d538158132333517133\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.android\build-cache\17066a9c0d765c043fc8fe5fad7276c2e92d7b5e\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\bumur\.android\build-cache\a7c30147556a88f63753c40dd7b40f60095ac1ce\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\bumur\.android\build-cache\3844e2666053230b1c79efa12f7c18625e1505bd\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.android\build-cache\5af3954e4307c683f9cdf4a3a5fff9d378365a5a\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\bumur\.android\build-cache\f5cc04a909262074ee26ab0e6d0094e8654dec46\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\bumur\.android\build-cache\9a6801e689b2b53dbc65fcfc269b55093b384622\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\bumur\.android\build-cache\0c234e0e8542ea2febaef7cf5081645ed21c3651\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\bumur\.android\build-cache\4488aa5ec9af0808dca9071e9af22de8cebf3d7c\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\bumur\.android\build-cache\61b4d2f4e3f8e6ce1ce93dfe6eca6b950353abaa\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\bumur\.android\build-cache\557e5e2de53ed06dfb52021821d2405c184f8d63\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\3ef7b64d24340e30cdd6638c547568abc4af448b\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\bumur\.android\build-cache\2542ac94d66160d955b739ed04b84dc09981094e\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\bumur\.android\build-cache\7376189730b51186af6097da9bc3774718f59dfd\output\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\bumur\.android\build-cache\14ce21809ac7f9fe040bd34ba1fb4d0912df05e7\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.android\build-cache\e16478e27406bd223d472d6efd81875a1ef6b942\output\AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\bumur\.android\build-cache\9590aaff31d20a8dbd9ca5623fb30cf72cfc5823\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.android\build-cache\b04fc2d65275bb85e44f3a40206b6e5bdfb4a4bb\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.android\build-cache\30f5a9f64d6221c9882576a40a059e5a40e5b41d\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bumur\.android\build-cache\788cf9d294c226245737b137f397475dbeefc56c\output\AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\bumur\.android\build-cache\1319d22d6de9b2152adab7f2eea769fc3f2314ad\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\760110786a69a6de02afc7ec4017cc5f053f7988\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.android\build-cache\3037094d4582b3dac5072bb041b0424a61315a2f\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\bumur\.android\build-cache\e3f7e7dd8a66420ed666390c2f939613ba485f9f\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.android\build-cache\3038d8bd095fa5fbc74685c053311dd84d802ad9\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.android\build-cache\c8eed867c11e5ade9c1eb91eb3bd60c386fa7fab\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.android\build-cache\297f8d786dec943f5b26c7e5fd946554f4819e9f\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.android\build-cache\7aace44cf0b65c829b6b4347e40ef92eb245f0b9\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.android\build-cache\e8b3f762bdca7bd5e8b329b5571da7e89663d68d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.android\build-cache\62dc7a2b9bef712bbd069c4ea84e8d2459d13719\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.android\build-cache\c0dab23a11895d73935f217b6e3e0a0e305195d0\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\crouton-1.8.5.aar\13a371183d00af905af64e9adf786575\AndroidManifest.xml:22:5-24:41
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\crouton-1.8.5.aar\13a371183d00af905af64e9adf786575\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\f56865b78dfd39794f90d5261f0543ae\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\f56865b78dfd39794f90d5261f0543ae\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\6f19032b786ecc2200f82b9543898a6c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\6f19032b786ecc2200f82b9543898a6c\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\e5e79e88bcd353fee1e9b8237c3004d8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\e5e79e88bcd353fee1e9b8237c3004d8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5623adffa4cc711266765056e8679f1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5623adffa4cc711266765056e8679f1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb620ddfb94e5f623e40e9563d4df385\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb620ddfb94e5f623e40e9563d4df385\AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:2.0.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\android-adapters-2.0.0.aar\a41f4162283bc094cefe63ea1dad473d\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:android-adapters:2.0.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\android-adapters-2.0.0.aar\a41f4162283bc094cefe63ea1dad473d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.clans:fab:1.6.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\fab-1.6.2.aar\90624d301c3318d7780ca14194bffd3c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\fab-1.6.2.aar\90624d301c3318d7780ca14194bffd3c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\e1e086aa08b19dc80e9bb6f5973a83d1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\e1e086aa08b19dc80e9bb6f5973a83d1\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\7f8e74bed1e01674fbadcf95ef450325\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\7f8e74bed1e01674fbadcf95ef450325\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\f283f8322b2734f6cf637484630808eb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\f283f8322b2734f6cf637484630808eb\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\f2209e1aee9d055ec03c66586ccd9994\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\f2209e1aee9d055ec03c66586ccd9994\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\96485364ded73bba8749312cf488e89e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\96485364ded73bba8749312cf488e89e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9095979789d1ef9f77d753ed3ced06f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9095979789d1ef9f77d753ed3ced06f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\cbc4555ee371970dabc91540db8316a4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\cbc4555ee371970dabc91540db8316a4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\8af33e33b9cbb2654acb036c3d7e3e9d\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\8af33e33b9cbb2654acb036c3d7e3e9d\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.6.aar\6a2d57237c65dda1277acc8d36fcd15b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.6.aar\6a2d57237c65dda1277acc8d36fcd15b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\7e1f7bc2e9de907437e9c20a468e91db\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\7e1f7bc2e9de907437e9c20a468e91db\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\71a5d06b0905476900ee56c5f5b90181\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\71a5d06b0905476900ee56c5f5b90181\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\e330099a8c6594c59bcb18c1d32e33a5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\e330099a8c6594c59bcb18c1d32e33a5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\43b3d306cd2f4d97feaaf04aaa5e72f2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\43b3d306cd2f4d97feaaf04aaa5e72f2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\b4cf275acb0ac5f7ed22c4be5f342cda\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\b4cf275acb0ac5f7ed22c4be5f342cda\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.6.aar\dce9a6c4cfbfb568a811fea7065d14b1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.6.aar\dce9a6c4cfbfb568a811fea7065d14b1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\a47c86d1d8c57fe43999162b287d32d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\a47c86d1d8c57fe43999162b287d32d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.6.aar\8ae5e377b909d253599f28c444028535\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.6.aar\8ae5e377b909d253599f28c444028535\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\f87cd8676b54dc403abb310811c329aa\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\f87cd8676b54dc403abb310811c329aa\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\c9e3d989195f4cfe115c14653e15dd09\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\c9e3d989195f4cfe115c14653e15dd09\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\b0fbf53964c2731a10382531b413fa5e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\b0fbf53964c2731a10382531b413fa5e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\55acd656486b9c17c2f5a6e3decaf86f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\55acd656486b9c17c2f5a6e3decaf86f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\2209ba437762d048f31f5775e7c57468\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\2209ba437762d048f31f5775e7c57468\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.6.aar\e5a763b043f780efd77ef864203d86c3\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.6.aar\e5a763b043f780efd77ef864203d86c3\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8752f0b0ca41b493d193b93859aadc9d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8752f0b0ca41b493d193b93859aadc9d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.6.aar\c32268b4f4f6b485f816b6f5c8ba73e6\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.6.aar\c32268b4f4f6b485f816b6f5c8ba73e6\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\539e7a7a901f284af097f3e800950858\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\539e7a7a901f284af097f3e800950858\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\a867b0b52dc4bde89ab9e1eee80b8737\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\a867b0b52dc4bde89ab9e1eee80b8737\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\c2a44269b976d86f3ffb09f063cd6608\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\c2a44269b976d86f3ffb09f063cd6608\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\e08fd541c0c4587e6a2b427f873e6b28\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\e08fd541c0c4587e6a2b427f873e6b28\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\3988528ca82558eae787bbba108620d0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\3988528ca82558eae787bbba108620d0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\9e4d66e9e3a6b42aeeb96be663c673de\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\9e4d66e9e3a6b42aeeb96be663c673de\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3078780c8f5325e5eafc8ccba1cb7194\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3078780c8f5325e5eafc8ccba1cb7194\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\d3ba4b0d3fdfc526aadc62da169b28e4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\d3ba4b0d3fdfc526aadc62da169b28e4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\bba02eeab9d82be45b43b8b48b5cb0bb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\bba02eeab9d82be45b43b8b48b5cb0bb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\1d1952222d06ce60c5fe5f549d901206\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\1d1952222d06ce60c5fe5f549d901206\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\b461a4d803df5ea4b827b18ea3067e0a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\b461a4d803df5ea4b827b18ea3067e0a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\d849f0c3506eabb5622a11c941fd8017\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\d849f0c3506eabb5622a11c941fd8017\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6979071e48423660b74937b21d139ca8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6979071e48423660b74937b21d139ca8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\991582104e63f532abce02564b17f739\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\991582104e63f532abce02564b17f739\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7edb8b461c837a27d2d01ab7b95b1600\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7edb8b461c837a27d2d01ab7b95b1600\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\291e42b4ea92f853f334ebb0d5eb54b0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\291e42b4ea92f853f334ebb0d5eb54b0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1e5acc3d79623b63ef975a95179716d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1e5acc3d79623b63ef975a95179716d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e0cc2f709b358c8b8f2988eceacb65f4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e0cc2f709b358c8b8f2988eceacb65f4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\e5f62183a8b644c75146dad2a8b18d75\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\e5f62183a8b644c75146dad2a8b18d75\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1651a6200fb0a9a9961356be544a3c91\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1651a6200fb0a9a9961356be544a3c91\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cce193183bd1cf869e52faa875a38c8e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cce193183bd1cf869e52faa875a38c8e\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\bumur\.android\build-cache\ea81fc428b23be4e75a47d84dba455c2dd87a886\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\MonitoringDriver1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bumur\AndroidStudioProjects\monitoringDrivesAndroid\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\bumur\.android\build-cache\ea81fc428b23be4e75a47d84dba455c2dd87a886\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.android\build-cache\7322800f36f2b5128f2f1560b05c764d8ff86611\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.android\build-cache\0ff17313ad6a92516bf75f4d8e3d84e760bcf3e5\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.android\build-cache\7c18f452c6bde9bb866c54dc5569734c150a5557\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.android\build-cache\b0009e88691c8b7572617f33e221f31cc01efca6\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.android\build-cache\30f5a9f64d6221c9882576a40a059e5a40e5b41d\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bumur\.android\build-cache\788cf9d294c226245737b137f397475dbeefc56c\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.android\build-cache\c8eed867c11e5ade9c1eb91eb3bd60c386fa7fab\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.android\build-cache\297f8d786dec943f5b26c7e5fd946554f4819e9f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.android\build-cache\7aace44cf0b65c829b6b4347e40ef92eb245f0b9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.android\build-cache\e8b3f762bdca7bd5e8b329b5571da7e89663d68d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.android\build-cache\62dc7a2b9bef712bbd069c4ea84e8d2459d13719\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.android\build-cache\c0dab23a11895d73935f217b6e3e0a0e305195d0\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5623adffa4cc711266765056e8679f1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5623adffa4cc711266765056e8679f1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\7f8e74bed1e01674fbadcf95ef450325\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\7f8e74bed1e01674fbadcf95ef450325\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\f283f8322b2734f6cf637484630808eb\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\f283f8322b2734f6cf637484630808eb\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9095979789d1ef9f77d753ed3ced06f0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9095979789d1ef9f77d753ed3ced06f0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6979071e48423660b74937b21d139ca8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6979071e48423660b74937b21d139ca8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\991582104e63f532abce02564b17f739\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\991582104e63f532abce02564b17f739\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7edb8b461c837a27d2d01ab7b95b1600\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7edb8b461c837a27d2d01ab7b95b1600\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\291e42b4ea92f853f334ebb0d5eb54b0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\291e42b4ea92f853f334ebb0d5eb54b0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1e5acc3d79623b63ef975a95179716d9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1e5acc3d79623b63ef975a95179716d9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e0cc2f709b358c8b8f2988eceacb65f4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e0cc2f709b358c8b8f2988eceacb65f4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1651a6200fb0a9a9961356be544a3c91\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1651a6200fb0a9a9961356be544a3c91\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cce193183bd1cf869e52faa875a38c8e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cce193183bd1cf869e52faa875a38c8e\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\bumur\.android\build-cache\ea81fc428b23be4e75a47d84dba455c2dd87a886\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\bumur\.android\build-cache\ea81fc428b23be4e75a47d84dba455c2dd87a886\output\AndroidManifest.xml:26:9-47
-activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:25:9-232
-	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:25:72-181
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:25:182-230
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:25:19-71
-activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:26:9-131
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:26:92-129
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.android\build-cache\1f0dbd177001cc11cd451bd13e63a359a5124f29\output\AndroidManifest.xml:26:19-91
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.android\build-cache\3c6f35fc35662eac165a6561f0901e0fbbc06fe7\output\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\3ef7b64d24340e30cdd6638c547568abc4af448b\output\AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\760110786a69a6de02afc7ec4017cc5f053f7988\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.android\build-cache\3c6f35fc35662eac165a6561f0901e0fbbc06fe7\output\AndroidManifest.xml:24:22-65
-activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:20:9-25:20
-	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:20:51-74
-	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:20:75-121
-	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:20:19-50
-intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:21:13-24:29
-action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:22:17-89
-	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:22:25-87
-category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:23:17-75
-	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.android\build-cache\099bd2ae652d1bd586d563e49f5f7cc606476f3a\output\AndroidManifest.xml:23:27-73
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:20:9-189
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:20:129-162
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:20:163-187
-	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:20:69-128
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:20:19-68
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:24:9-184
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:24:64-87
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:24:88-182
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.android\build-cache\14eddf964f4461947a49bc314b7d200b56dba8da\output\AndroidManifest.xml:24:18-63
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\16819a39cb0a6c3375605cccba204f3d\AndroidManifest.xml:26:9-47
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.android\build-cache\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\output\AndroidManifest.xml:5:9-99
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:5:9-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.android\build-cache\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\output\AndroidManifest.xml:5:19-97
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:5:19-97
 service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.android\build-cache\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\output\AndroidManifest.xml:6:9-103
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:6:9-103
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.android\build-cache\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\output\AndroidManifest.xml:6:18-101
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:6:18-101
 service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.android\build-cache\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\output\AndroidManifest.xml:7:9-92
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:7:9-92
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.android\build-cache\6a57e4d001958b669c34ea0dbceb64bdfa7a2938\output\AndroidManifest.xml:7:18-90
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\883cce7b01b05823b50f9b8c91436b94\AndroidManifest.xml:7:18-90
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.android\build-cache\8ffbba11042fde59bb2239e7ed5fa3349bc7498b\output\AndroidManifest.xml:23:9-27:19
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\e1e086aa08b19dc80e9bb6f5973a83d1\AndroidManifest.xml:23:9-27:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.android\build-cache\8ffbba11042fde59bb2239e7ed5fa3349bc7498b\output\AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\e1e086aa08b19dc80e9bb6f5973a83d1\AndroidManifest.xml:23:88-111
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.android\build-cache\8ffbba11042fde59bb2239e7ed5fa3349bc7498b\output\AndroidManifest.xml:23:18-87
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.android\build-cache\745314d4ae28d7266b6d5dfd0486cd9b5fa1f205\output\AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.android\build-cache\17066a9c0d765c043fc8fe5fad7276c2e92d7b5e\output\AndroidManifest.xml:20:5-81
-MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:22:5-81
-	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.android\build-cache\745314d4ae28d7266b6d5dfd0486cd9b5fa1f205\output\AndroidManifest.xml:20:22-79
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\e1e086aa08b19dc80e9bb6f5973a83d1\AndroidManifest.xml:23:18-87
 service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:24:9-134
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:24:9-134
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:24:110-132
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:24:110-132
 	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:24:85-109
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:24:85-109
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:24:18-84
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:24:18-84
 activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:25:9-32:20
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:25:9-32:20
 	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:25:94-118
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:25:94-118
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:25:19-93
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:25:19-93
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:26:13-31:29
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:26:13-31:29
 data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:27:17-71
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:27:17-71
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:27:23-69
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:27:23-69
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:28:17-68
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:28:25-66
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:29:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:30:17-77
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.android\build-cache\66c66566cb92eb1f7725e42351fa166655c1e35f\output\AndroidManifest.xml:30:27-75
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.android\build-cache\e16478e27406bd223d472d6efd81875a1ef6b942\output\AndroidManifest.xml:21:5-77
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.android\build-cache\e16478e27406bd223d472d6efd81875a1ef6b942\output\AndroidManifest.xml:21:19-51
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.android\build-cache\e16478e27406bd223d472d6efd81875a1ef6b942\output\AndroidManifest.xml:21:52-75
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.android\build-cache\b04fc2d65275bb85e44f3a40206b6e5bdfb4a4bb\output\AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.android\build-cache\b04fc2d65275bb85e44f3a40206b6e5bdfb4a4bb\output\AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.android\build-cache\b04fc2d65275bb85e44f3a40206b6e5bdfb4a4bb\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\62bdc86a4afc0a1d45df17ad0c222d6b\AndroidManifest.xml:30:27-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\340540eb0b8d8f3f724932b0c5f2e991\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\9a38521e6a0e9182a4c0c74bebc0c7d7\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.android\build-cache\b04fc2d65275bb85e44f3a40206b6e5bdfb4a4bb\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:22:22-65
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\760110786a69a6de02afc7ec4017cc5f053f7988\output\AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.android\build-cache\760110786a69a6de02afc7ec4017cc5f053f7988\output\AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\6406ab34ecfe45a2f18ab4bc163a3a6f\AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.android\build-cache\58dba23eac8cb5d4d375e4fcc1a45beaca1ddfca\output\AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\f1090017b4a46c0e0e2ced41b3d04cf6\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\411a146ddbe929facda192e4eecfd5ed\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\17d97e86bd8fcdd07882a9e6d5e92470\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:22:22-79
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:24:17-71
+permission#ru.likada.monitoringdriver.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:26:22-76
+uses-permission#ru.likada.monitoringdriver.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:30:9-35:20
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:30:9-35:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:31:13-34:29
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+ru.likada.monitoringdriver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:31:13-34:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:32:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:33:17-60
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:33:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:33:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:33:27-58
+category#ru.likada.monitoringdriver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:33:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:39:9-119
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:39:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:39:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:39:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:39:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:39:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:43:9-47:19
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:43:9-47:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:43:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:43:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.android\build-cache\5f21b18be5e44f8b8b4d7175f9e5c88ca712ad1c\output\AndroidManifest.xml:43:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\495c4064d16444399e8c263cbbe09978\AndroidManifest.xml:43:18-82
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.android\build-cache\3037094d4582b3dac5072bb041b0424a61315a2f\output\AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.android\build-cache\3037094d4582b3dac5072bb041b0424a61315a2f\output\AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.android\build-cache\3037094d4582b3dac5072bb041b0424a61315a2f\output\AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.android\build-cache\3037094d4582b3dac5072bb041b0424a61315a2f\output\AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.android\build-cache\3037094d4582b3dac5072bb041b0424a61315a2f\output\AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\7994cf87f50cf147ae8eb713d48282ee\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ab9e670f6eeaedd26854f279d817ce6d\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\da67f160e9235515cc9cd30ba4742f7a\AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\1a5b2104f7b4f86a5630ead741c94b54\AndroidManifest.xml:24:18-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\d2d0785e1b08e0682d5c4545848344a9\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\f2d8f2f1ec73ee92b81e83f9ec9cce76\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.android\build-cache\3038d8bd095fa5fbc74685c053311dd84d802ad9\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\d849f0c3506eabb5622a11c941fd8017\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.android\build-cache\3038d8bd095fa5fbc74685c053311dd84d802ad9\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\d849f0c3506eabb5622a11c941fd8017\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.android\build-cache\3038d8bd095fa5fbc74685c053311dd84d802ad9\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\bumur\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\d849f0c3506eabb5622a11c941fd8017\AndroidManifest.xml:20:20-65
